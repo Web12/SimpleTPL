@@ -7,13 +7,16 @@ Simple template engine for PHP
 
 require 'tpl.class.php';
 
-# Debug on
+// Debug on
 tpl::$debug = true;
 
-# Set templates directory
+// Set templates directory
 tpl::$dir   = 'tpl/';
 
+// Assign value to variable
 tpl::set('myvar', 'Hello World');
+
+// Render template
 tpl::view('helloworld');
 
 ?>
