@@ -16,7 +16,7 @@ tpl::$dir   = 'tpl/';
 // Assign value to variable
 tpl::set('myvar', 'Hello World');
 
-// Render template
+// Render template tpl/helloworld.tpl.php
 tpl::view('helloworld');
 
 ?>
