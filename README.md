@@ -32,3 +32,7 @@ echo $myvar;
 ```
 
 ### Available Methods
+
+More examples are available under /examples.
+
+
