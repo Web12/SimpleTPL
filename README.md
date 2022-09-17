@@ -1,9 +1,6 @@
 # SimpleTPL
 Simple template engine for PHP
 
-- [Quick Start and Examples](#quick-start-and-examples)
-- [Available Methods](#available-methods)
-
 ### Quick Start and Examples
 ```php
 <?php
